@@ -7,6 +7,17 @@ Package Lists
 ![Preview  of dishes](https://raw.githubusercontent.com/piyushhawq/Images/main/package%20list%20-favpackage.png)
 
 
+Problem Statement :
+1.	This assignment is called "FavouritePackages". In this assignment, the user will be shown a form, with a search input, a selectable radio button list, and a text area.
+2.	The user does a name-based search on NPM using the Search input.
+3.	The search API gets called as the user type on the input box.
+- Search API: https://api.npms.io/v2/search?q=reactjs
+4.	The result from the search API is shown on the list below the search input. It is a list of radio buttons.
+5.	The user will select a package from the list and write down why the package is one of his favourite packages.
+6.	After adding a favourite, the user should be taken to the home page, where he can see the list of added packages in a tabular format.
+7.	The user should be able to delete the individual packages from this table. Confirm before deleting the package from the list.
+
+
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
