@@ -1,4 +1,4 @@
-# Favorite NPM-Packages
+## Favorite NPM-Packages
 hosted Link:- https://piyushhawq.github.io/Favorite--Npm-packages/
 
 Home Page 
@@ -7,7 +7,7 @@ Package Lists
 ![Preview  of dishes](https://raw.githubusercontent.com/piyushhawq/Images/main/package%20list%20-favpackage.png)
 
 
-Problem Statement :
+#Problem Statement :
 1.	This assignment is called "FavouritePackages". In this assignment, the user will be shown a form, with a search input, a selectable radio button list, and a text area.
 2.	The user does a name-based search on NPM using the Search input.
 3.	The search API gets called as the user type on the input box.
